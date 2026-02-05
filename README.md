@@ -1,2 +1,3 @@
 # korra-az
-programming hard but here I am
+random projects here fr
+:3
